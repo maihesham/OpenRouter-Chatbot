@@ -20,3 +20,8 @@
 
 ```bash
 bun install
+
+2. run:
+
+```bash
+bun run dev
