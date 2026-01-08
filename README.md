@@ -10,5 +10,6 @@ Chatbot is a lightweight, interactive chatbot application built using TypeScript
 📦 Minimal Dependencies: Lightweight setup, easy to extend
 
 🚀 Install & Run
-## bun install
-## bun run dev
+      bun install in main folder , server folder and client folder
+      bun run dev in main folder
+
