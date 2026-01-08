@@ -1,11 +1,13 @@
 📌 Project Description
-Chatbot is a lightweight, interactive chatbot application built using TypeScript, HTML, CSS, and modern JavaScript tooling with Bun — a fast all‑in‑one JavaScript runtime. This project showcases a basic chatbot interface that can be run locally, demonstrating how to set up and run a conversational UI powered by custom logic. It’s an excellent starting point for building more advanced chat systems and experimenting with chatbot interactions in a web environment.
+
+Chatbot is a lightweight, interactive chatbot application built using TypeScript, HTML, CSS, and modern JavaScript tooling with Bun — a fast all‑in‑one JavaScript runtime. It integrates with OpenRouter to leverage AI models for generating intelligent responses, providing a simple yet powerful conversational experience. This project is an excellent starting point for experimenting with AI-powered chat systems in a web environment.
 
 🚀 Features
-🧠 Simple Chat Interface: A user‑friendly front‑end for chatting built with HTML, CSS, and JavaScript
+🧠 AI-Powered Chat: Uses OpenRouter models to generate dynamic chatbot responses
 ⚡ TypeScript Logic: Core chatbot behavior implemented in TypeScript for type safety and scalability
-🏃 Fast Runtime with Bun: Uses Bun as the development and execution environment for faster startup and performance
-📦 Minimal Dependencies: Lightweight setup without heavy frameworks — ideal for learning and iteration
+🏃 Fast Runtime with Bun: Development and execution powered by Bun for faster performance
+💻 Frontend: Simple HTML, CSS, and JS chat interface
+📦 Minimal Dependencies: Lightweight setup, easy to extend
 
 🚀 Install & Run
 bun install
