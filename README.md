@@ -16,12 +16,5 @@
 
 ## 📦 Install & Run
 
-1. Install dependencies in all folders:
+To get started, install dependencies in all folders (`main`, `server`, and `client`) by running `bun install` in each folder, then start the development server from the `main` folder using `bun run dev`.
 
-```bash
-bun install
-
-2. run:
-
-```bash
-bun run dev
